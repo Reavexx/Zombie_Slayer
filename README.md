@@ -1,2 +1,3 @@
-# Zombie_Slayer
-IPT_4.1_Game_Developement
+#Zombie_Slayer#
+
+Ein Unity-Projekt kreiert von Luca Bisanti & Dines Nimalthas
