@@ -1,3 +1,3 @@
 #Zombie_Slayer#
 
-Ein Unity-Projekt kreiert von Luca Bisanti & Dines Nimalthas
+Unity Project created by Bisanti Luca & Nimalthas Dines
