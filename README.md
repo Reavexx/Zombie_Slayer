@@ -6,7 +6,7 @@ Tags: Blender, Unity, Visio, C#
 ```
 == Description ==
 ``` 
-Zombie Slayer basic FPS Shooter (PVE).
+Zombie Slayer basic FPS (PVE).
 
 NoCopyRight
 ```
