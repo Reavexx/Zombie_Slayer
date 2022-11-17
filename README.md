@@ -1,3 +1,12 @@
-#Zombie_Slayer#
+== Zombie_Slayer == 
+```
+Contributors: BlucaKing & Reavexx
+Donate-Link: paypal.me/dinesnimalthas
+Tags: Blender, Unity, Visio, C#
+```
+== Description ==
+``` 
+Zombie Slayer basic FPS Shooter (PVE).
 
-Unity Project created by Bisanti Luca & Nimalthas Dines
+NoCopyRight
+```
