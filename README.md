@@ -14,4 +14,4 @@ All elements were designed by the company itself.
 
 
 NoCopyRight
-![image](https://user-images.githubusercontent.com/56248619/202430792-8cffc714-97cb-4e6b-adb6-3fef9e1e770b.png)
+
