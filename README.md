@@ -11,3 +11,10 @@
 
  NoCopyRight
  ```
+ == Project Execution ==
+ ``` 
+ This game should be unzipped and run on Unity version 2021.3.11f 
+ additionally it is required to have VS2022 and the Unity extension available.
+
+ Have Fun with the project!
+ ```
