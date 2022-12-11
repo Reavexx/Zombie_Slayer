@@ -8,7 +8,7 @@ Stable: 2021.3.11f1
 ```
 == Description ==
 ``` 
-Everything was scripted by yourself, there are no duplicates in this PvE game
+Everything was scripted by ourself, there are no duplicates in this PvE game
 
 NoCopyRight
 ```
