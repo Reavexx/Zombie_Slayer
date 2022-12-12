@@ -13,8 +13,14 @@
  ```
  == Project Execution ==
  ``` 
- This game should be unzipped and run on Unity version 2021.3.11f 
- additionally it is required to have VS2022 and the Unity extension available.
+ - Unzip the ZIP File
+ - install UnityHub
+ - Log into your Unity Account or register
+ - Install Unity Editor (2021.3.14f)
+ - Open the Project
 
  Have Fun with the project!
+
+If there any Problems contact us under our Website
+URL:
  ```
